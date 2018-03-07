@@ -1,6 +1,6 @@
 #include <iostream>
 #include <bits/stdc++.h>
-#include "HelloB.cpp"
+#include "src/HelloB.cpp"
 using namespace std;
 
 int main() {

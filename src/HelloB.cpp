@@ -1,9 +1,9 @@
 #include <iostream>
 #include <bits/stdc++.h>
-#include "HelloW.hpp"
+#include "../header/HelloB.hpp"
 using namespace std;
 
 
-void HelloW::ImprimirMsj(string mensaje){
+void HelloB::ImprimirMsj(string mensaje){
  cout << mensaje  << '\n';
 };
